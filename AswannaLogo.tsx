@@ -1,5 +1,5 @@
 import React from "react";
-import { Language, translations } from "../translations";
+import { Language, translations } from "./translations";
 
 interface LogoProps {
   className?: string;
