@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from "react";
 import { FarmPlot, AgroEcologicalZone, SoilType } from "./types";
-import AswannaLogo from "./components/AswannaLogo";
-import AuthScreen from "./components/AuthScreen";
-import Dashboard from "./components/Dashboard";
-import CropAdvisor from "./components/CropAdvisor";
-import PlantClinic from "./components/PlantClinic";
-import SoilHealth from "./components/SoilHealth";
-import GrowthCalendar from "./components/GrowthCalendar";
-import ChatAdvisor from "./components/ChatAdvisor";
-import MarketHub from "./components/MarketHub";
-import AgriCalculator from "./components/AgriCalculator";
-import HusbandryHub from "./components/HusbandryHub";
+import AswannaLogo from "AswannaLogo";
+import AuthScreen from "AuthScreen";
+import Dashboard from "Dashboard";
+import CropAdvisor from "CropAdvisor";
+import PlantClinic from "PlantClinic";
+import SoilHealth from "SoilHealth";
+import GrowthCalendar from "GrowthCalendar";
+import ChatAdvisor from "ChatAdvisor";
+import MarketHub from "MarketHub";
+import AgriCalculator from "AgriCalculator";
+import HusbandryHub from "HusbandryHub";
 import { themes, ThemeType, ThemeStyles } from "./theme";
 import { Language, translations } from "./translations";
 import { 
