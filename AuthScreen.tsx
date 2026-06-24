@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Language } from "../translations";
+import { Language } from "./translations";
 import AswannaLogo from "./AswannaLogo";
 import { LogIn, UserPlus, Key, Phone, User, MapPin, Briefcase, Eye, EyeOff, ShieldCheck } from "lucide-react";
 import { motion } from "motion/react";
