@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
-import { ChatMessage, FarmPlot } from "../types";
-import { Language, translations } from "../translations";
+import { ChatMessage, FarmPlot } from "./types";
+import { Language, translations } from "./translations";
 import { 
   Bot, 
   User, 
