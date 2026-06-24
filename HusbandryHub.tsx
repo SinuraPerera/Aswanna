@@ -16,7 +16,7 @@ import {
   ChevronRight,
   Info
 } from "lucide-react";
-import { AnimalRegistryEntry } from "../types";
+import { AnimalRegistryEntry } from "./types";
 import { Language } from "../translations";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
 import { motion } from "motion/react";
