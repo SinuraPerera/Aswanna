@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FarmPlot } from "../types";
-import { Language, translations } from "../translations";
+import { Language, translations } from "./translations";
 import { 
   Calendar, 
   Clock, 
