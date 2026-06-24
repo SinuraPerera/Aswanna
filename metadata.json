@@ -1,0 +1,6 @@
+{
+  "name": "Aswanna",
+  "description": "Aswanna is a highly-polished, advanced smart agriculture platform for Sri Lankan farmers, providing real-time crop disease diagnosis, personalized soil advisory, local crop selection, automated growth calendar, and a smart virtual expert.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
