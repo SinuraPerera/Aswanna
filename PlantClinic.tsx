@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { FarmPlot, DiagnosisReport } from "../types";
-import { Language, translations } from "../translations";
+import { FarmPlot, DiagnosisReport } from "./types";
+import { Language, translations } from "./translations";
 import { 
   ShieldAlert, 
   Leaf, 
