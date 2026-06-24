@@ -11,8 +11,8 @@ import {
   RefreshCw,
   ShoppingBag
 } from "lucide-react";
-import { ThemeStyles, ThemeType } from "../theme";
-import { Language, translations } from "../translations";
+import { ThemeStyles, ThemeType } from "./theme";
+import { Language, translations } from "./translations";
 
 interface MarketHubProps {
   theme: ThemeType;
