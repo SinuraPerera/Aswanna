@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FarmPlot, AgroEcologicalZone, SoilType, WeatherCondition } from "../types";
+import { FarmPlot, AgroEcologicalZone, SoilType, WeatherCondition } from "./types";
 import { 
   Sprout, 
   MapPin, 
@@ -18,7 +18,7 @@ import {
   Clock
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
-import { Language, translations } from "../translations";
+import { Language, translations } from "./translations";
 
 interface DashboardProps {
   plots: FarmPlot[];
