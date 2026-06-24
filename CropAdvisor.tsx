@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { FarmPlot, RecommendedCrop, AgroEcologicalZone, SoilType } from "../types";
-import { Language, translations } from "../translations";
+import { FarmPlot, RecommendedCrop, AgroEcologicalZone, SoilType } from "./types";
+import { Language, translations } from "./translations";
 import { 
   Compass, 
   MapPin, 
