@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { FarmPlot, SoilReport } from "../types";
-import { Language, translations } from "../translations";
+import { FarmPlot, SoilReport } from "./types";
+import { Language, translations } from "./translations";
 import { 
   Dna, 
   MapPin, 
